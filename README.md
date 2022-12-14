@@ -1,7 +1,7 @@
 
 # ChatGptPrtk
 [![PyPi](https://img.shields.io/pypi/v/chatgptprtk.svg)](https://pypi.python.org/pypi/chatgptprtk) 
-[![License](https://img.shields.io/badge/license-MIT-blue)](https://choosealicense.com/licenses/mit/)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/pratikjoshi999/chatGptPrtkPkg/blob/main/LICENSE)
 
 ChatGPT is a prototype artificial intelligence chatbot developed by [OpenAI](https://openai.com/) which specializes in dialogue. 
 
@@ -46,4 +46,4 @@ Start a server
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/pratikjoshi999/chatGptPrtkPkg/blob/main/LICENSE)
