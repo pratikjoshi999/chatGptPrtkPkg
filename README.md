@@ -43,6 +43,31 @@ Start a server
   ch.startServer()
 ```
 
+## API Reference
+
+#### Endpoint
+
+```http
+  {Host url}/getChatgptResponse
+```
+#### Request
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `msg` | `string` | **Required**. Your Message to AI |
+
+#### Response
+
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `chatGptResp`      | `string` |  Response from chatGPT |
+| `responseCode`      | `int` |  API Response Code |
+
+#### API Key
+Set a valid API Key using `setApiKey()` before starting server.
+
+
 
 ## License
 
