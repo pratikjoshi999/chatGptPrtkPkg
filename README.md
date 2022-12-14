@@ -47,7 +47,7 @@ Start a server
 
 #### Endpoint
 
-```http
+```bash
   {Host url}/getChatgptResponse
 ```
 #### Request
